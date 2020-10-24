@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<Head>
+<title></title>
+<meta charset-"utf-0">
+<meta name-"description" content="автомагнитолы">
+<link rel="icon" type="image/png" sizes="32x32" href="">
+</Head>
+<body bgcolor="#E5E5E5">
+</body>
+</html>
